@@ -3,7 +3,6 @@ Tôi tên là Trương Tố Trinh.
 Hiện đang là sinh viên ngành Công nghệ Thông tin.
 Đam mê lập trình và công nghệ mới.
 Mong muốn phát triển kỹ năng Git và quản lý mã nguồn.
-
 Sở thích:
 - Đọc sách
 - Chơi bóng chuyền
