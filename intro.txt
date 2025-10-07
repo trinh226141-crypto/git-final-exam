@@ -13,3 +13,11 @@ Kỹ năng:
 - Lập trình Python
 - Quản lý dự án
 - Làm việc nhóm
+
+
+Kế hoạch học tập:
+- Học Git căn bản và nâng cao.
+- Thực hành làm việc nhóm với Git.
+- Nắm vững các thao tác commit, branch và merge.
+- Tạo dự án mẫu và quản lý source code.
+- Tăng cường kỹ năng xử lý xung đột.
