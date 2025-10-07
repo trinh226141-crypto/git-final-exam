@@ -1,0 +1,6 @@
+Tính năng mới: Quản lý sinh viên
+
+- Cho phép thêm, sửa, xóa sinh viên.
+- Lưu dữ liệu sinh viên vào file JSON.
+- Giao diện thân thiện với người dùng.
+- Hỗ trợ tìm kiếm nhanh theo MSSV.
