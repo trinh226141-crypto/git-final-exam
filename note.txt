@@ -1,3 +1,5 @@
 - Git giúp quản lý phiên bản hiệu quả.
 - Dễ dàng theo dõi lịch sử thay đổi.
 - Hỗ trợ làm việc nhóm chuyên nghiệp.
+- Học Git giúp tăng kỹ năng chuyên môn.
+- Git rất cần thiết trong mọi dự án phần mềm.
